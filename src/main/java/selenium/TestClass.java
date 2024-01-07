@@ -12,7 +12,7 @@ public class TestClass {
 		System.out.println(a.replace("N", "s"));
 		String[] arr = a.split("a",5);
 		for(String ar : arr) {
-			System.out.println(ar);
+			//System.out.println(ar);
 		}
 	}
 	
